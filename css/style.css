@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#one{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+#three{
+    height: 200px;
+    width: 200px;
+    background-color: hotpink;
+}
+#two{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+}
